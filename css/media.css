@@ -1,6 +1,5 @@
 @media screen and (max-width: 1140px) {
     .catalog__cards-wrap {
-
         flex-wrap: wrap;
     }
 }
@@ -245,7 +244,7 @@
     }
 
     .footer {
-        padding: 15px 0 15px;
+        padding: 15px 0;
     }
 
     .footer__wrap {
