@@ -1,3 +1,10 @@
+@media screen and (max-width: 1140px) {
+    .catalog__cards-wrap {
+
+        flex-wrap: wrap;
+    }
+}
+
 @media screen and (max-width: 1080px) {
     .header {
         padding: 28px 30px;
